@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **System Design and DevOps**
 
-- 👯 I’m looking to collaborate on **enterprise java projects on enter**
+- 👯 I’m looking to collaborate on **enterprise java projects**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
