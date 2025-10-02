@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **private projects**
 
-- 🌱 I’m currently learning **System Design and DevOps**
+- 🌱 I’m currently learning **System Design and Dev/MLOps and Software Security**
 
 - 👯 I’m looking to collaborate on **enterprise java projects**
 
